@@ -2,7 +2,7 @@
 
 ![Untitled](Photos/me.png)
 
-## Profile
+## 👦🏻Profile
 
 - TEL. 010-5718-4620
 - E-MAIL. v7153623@ajou.ac.kr
