@@ -1,6 +1,6 @@
 # 백엔드 개발자 장인혁
 
-![Untitled](Photos/me.png)
+<img src="Photos/me.png" width="300px"/>
 
 ## 👦🏻 Profile
 
