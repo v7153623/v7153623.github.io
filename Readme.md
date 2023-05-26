@@ -6,7 +6,8 @@
 
 - TEL. 010-5718-4620
 - E-MAIL. v7153623@ajou.ac.kr
-- Instagram [https://www.instagram.com/linga_jang/](https://www.instagram.com/linga_jang/)
+- COMPANY. KB-CARD
+- Instagram. [https://www.instagram.com/linga_jang/](https://www.instagram.com/linga_jang/)
 - Git-hub. [https://github.com/v7153623](https://github.com/v7153623)
 
 <br/>
@@ -31,7 +32,8 @@
 
 ---
 
-- 2022.07 ~ 현 재 삼성 청년 SW 아카데미 8기 재학중
+- 2023.05 ~ KB 국민카드 IT직무 입사
+- 2022.07 ~ 2023.05 삼성 청년 SW 아카데미 8기 재학중
 - 2017.03 ~ 2022.08 아주대학교 소프트웨어과, 환경안전공학과 복수전공
 
 <br/>
